@@ -1,0 +1,36 @@
+  body{ background-color: rgb(202, 7, 40);
+    color: white;
+    font-family: "Mate SC", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 600px;
+    margin: 3px;
+    font-size: 28px;
+
+}
+
+button{
+background-color: black;
+color: white;
+font-family: "Mate SC", serif;
+font-size: 35px;
+
+}
+
+.passo{
+    display:none;
+
+}
+
+.passo.ativo{
+    display:block;
+
+}
+
+main{
+max-width: 90%;
+text-align: center;
+
+
+    }
